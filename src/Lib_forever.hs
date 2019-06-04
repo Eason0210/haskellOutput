@@ -9,3 +9,4 @@ main = forever $ do
      putStrLn $ map toUpper l
 
 
+
